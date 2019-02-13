@@ -1,0 +1,86 @@
+---
+title: "Open science and research data management, day 1"
+author: "colomb julien"
+date: "10/25/2018"
+output:
+  ioslides_presentation:
+    incremental: true
+    widescreen: true
+    fig_width: 7
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Outline
+
+- Website as an output of this workshop, each one of you working with one of your own experiment
+- End of day 1: adding a page about yourself and a data managment plan
+- End of day 2: adding a blog post as a report for one experiment (M&M,result)
+
+
+
+# Presentation 
+
+- tell us (1 min)
+    - your name, your PI 
+    - one sentence about your scientific project
+    - One sentence about yourself outside of the lab
+- one card with your name and the experiment you will work on
+- one card tell about why you choose to be a scientist
+
+
+
+
+##  Open science definition
+
+Open Science is the practice of science in such a way that others can collaborate and contribute, where research data, lab notes and other research processes are freely available, under terms that enable reuse, redistribution and reproduction of the research and its underlying data and methods. 
+
+[FOSTER, Open Science Definition: https://www.fosteropenscience.eu/foster-taxonomy/open-science-definition]
+
+## Open science is diverse
+
+
+<center><img src="../static/Users/colombj/github_repo/teach_OS_RDM/non_website/presentation_d1_files/latest_150.png" width="100%"" /></center>
+
+## Why open science
+
+<center><img src="images/openscience_because.png" width="65%" /></center>
+
+# Why open data
+
+## Open data is coming !
+
+>- Funders ask for it
+>- Journals ask for it
+>- Universities ask for it
+
+Get ready for it !
+ 
+ 
+
+
+
+
+# Foreword
+## Workshop timing
+
+- 15 min breaks at 10:45 and 15h
+- lunch 12h30 to 13h30
+- end at 16:45
+- Dinner tonite ?
+
+
+## Code of conduct
+
+- Be supportive, collaborative, kind, and generous with feedback
+- No exclusionary language or microaggressions (beware of jokes)
+- React if you see unfit behavior
+- Please don’t say: “Comment X wasn’t sexist!”, apologize and move on.
+- pacman rule whie talking in a circle
+
+# Question ?
+
+
+
